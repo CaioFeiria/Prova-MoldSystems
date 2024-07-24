@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\ProvaMold\ProvaMold\bin\Debug\ProvaMold.exe.config
+C:\Users\dell\Desktop\ProvaMold\ProvaMold\bin\Debug\ProvaMold.exe
+C:\Users\dell\Desktop\ProvaMold\ProvaMold\bin\Debug\ProvaMold.pdb
+C:\Users\dell\Desktop\ProvaMold\ProvaMold\obj\Debug\ProvaMold.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ProvaMold\ProvaMold\obj\Debug\ProvaMold.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ProvaMold\ProvaMold\obj\Debug\ProvaMold.exe
+C:\Users\dell\Desktop\ProvaMold\ProvaMold\obj\Debug\ProvaMold.pdb

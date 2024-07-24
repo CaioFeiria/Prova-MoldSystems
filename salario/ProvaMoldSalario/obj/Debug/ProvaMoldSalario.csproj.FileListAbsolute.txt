@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\ProvaMoldSalario\ProvaMoldSalario\bin\Debug\ProvaMoldSalario.exe.config
+C:\Users\dell\Desktop\ProvaMoldSalario\ProvaMoldSalario\bin\Debug\ProvaMoldSalario.exe
+C:\Users\dell\Desktop\ProvaMoldSalario\ProvaMoldSalario\bin\Debug\ProvaMoldSalario.pdb
+C:\Users\dell\Desktop\ProvaMoldSalario\ProvaMoldSalario\obj\Debug\ProvaMoldSalario.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ProvaMoldSalario\ProvaMoldSalario\obj\Debug\ProvaMoldSalario.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ProvaMoldSalario\ProvaMoldSalario\obj\Debug\ProvaMoldSalario.exe
+C:\Users\dell\Desktop\ProvaMoldSalario\ProvaMoldSalario\obj\Debug\ProvaMoldSalario.pdb
